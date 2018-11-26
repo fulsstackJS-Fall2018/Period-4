@@ -34,6 +34,10 @@ you can just do this (but the example above, one more time, nicely illustrates h
 ````javascript 
 return newFriend.save();
 ````
+
+#### Slides
+[slides](https://docs.google.com/presentation/d/1Uc6r_hDfaOX0XiDidJblAd_x613hKKZU1JtbSe5DjMM/edit?usp=sharing)
+
 #### Exercises
 Complete the  [Lynda-tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html).
 When done, start focusing on the miniproject (backend)
