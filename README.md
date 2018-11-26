@@ -5,6 +5,8 @@
 
 ## [Learning Goals Period 4](https://docs.google.com/document/d/1svHB2Dp6aSfST5zaXUtpNyVy9EpO5Wpvts3_YSW934w/edit?usp=sharing)
 
+## Snippet
+[snippet-file](https://docs.google.com/document/d/1eCjER3j_-YnoOlPwyRTn8FbV9GLxsq2Uely6c20IMg4/edit?usp=sharing)
 
 ## 26-11-Monday
 * An introduction to GraphQL
