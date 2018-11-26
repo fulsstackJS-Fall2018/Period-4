@@ -38,7 +38,7 @@ return newFriend.save();
 Complete the  [Lynda-tutorial](https://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html).
 When done, start focusing on the miniproject (backend)
 
-## 30-11-Monday
+## 30-11-Friday
 
 **Mini Project Backend** 
 [Mini Project, part4 (Backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
