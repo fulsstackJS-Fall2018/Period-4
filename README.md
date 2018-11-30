@@ -48,7 +48,11 @@ When done, start focusing on the miniproject (backend)
 [Mini Project, part4 (Backend)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 03-12-Monday
-raphQL Client Side with React and Apollo. 
+GraphQL Client Side with React and Apollo. 
+
+#### Before this lesson you should:
+
+Read this [introduction](https://www.apollographql.com/docs/react/) to the Apollo client, the library we are going to use for GraphQL Client Side interaction
 
 **Exercises:** 
 - [Apollo/React-exercises](https://docs.google.com/document/d/1BHFam0A4FdvYRspu0wC0PCjGmHvj4SuhJKTVcGq2cW8/edit?usp=sharing)
