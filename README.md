@@ -55,14 +55,14 @@ GraphQL Client Side with React and Apollo.
 Read this [introduction](https://www.apollographql.com/docs/react/) to the Apollo client, the library we are going to use for GraphQL Client Side interaction
 
 **Exercises:** 
-- [Apollo/React-exercises](https://docs.google.com/document/d/1BHFam0A4FdvYRspu0wC0PCjGmHvj4SuhJKTVcGq2cW8/edit?usp=sharing)
+- [Apollo/React-exercises](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
 - [Mini Project, part4 (client)](https://docs.google.com/document/d/11i1RJAfjQMgU-6RTLjcJNYyXRtAQzZOJFI-j4Kf2LVA/edit?usp=sharing)
 
 ## 10-12-Monday
 GraphQL Client Side with React and Apollo continued 
 
 **Exercises:** 
-- Complete the [Apollo/React-exercises](https://docs.google.com/document/d/1BHFam0A4FdvYRspu0wC0PCjGmHvj4SuhJKTVcGq2cW8/edit?usp=sharing)
+- Complete the [Apollo/React-exercises](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
 - Complete the [Mini Project, part4 (client)](https://docs.google.com/document/d/1IIFoYyl3CMuSQ8oGHyGZBWh3-SroFyoaQWn-LPI9qVc/edit?usp=sharing)
 
 ## 17-12-Monday
