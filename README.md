@@ -77,5 +77,5 @@ GraphQL Client Side with React and Apollo continued
 
 **Period Milestones:**
 * Period Hand-in: December 21th. 16.00
-* [Hand-in Document (TBD)](#)
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1vnFNqFQTzYc2cu-F00xsCNkIb_Lx-NqWXtEScRFcCf0/edit?usp=sharing)
 
